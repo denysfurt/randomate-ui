@@ -1,7 +1,7 @@
 
-  # Randomate Mobile UI Kit
+  # Randomate App Design
 
-  This is a code bundle for Randomate Mobile UI Kit. The original project is available at https://www.figma.com/design/Obfsr0dOMlMjZcK5fcAkCq/Randomate-Mobile-UI-Kit.
+  This is a code bundle for Randomate App Design. The original project is available at https://www.figma.com/design/NzbZmuAKpY0rrxw1YRGklG/Randomate-App-Design.
 
   ## Running the code
 
